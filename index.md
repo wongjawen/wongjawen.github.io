@@ -1,7 +1,3 @@
-<?php
-echo('TEST');
-?>
-
 html
 
 <html>
